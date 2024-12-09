@@ -10,7 +10,7 @@
 // // ans is "undefined"
 
 // const firstName2 = "shru"; 
-// console.log(firstName2);  //output is some error becoz it has some input 
+// console.log(firstName2);  //output is some error becoz it needs some input 
 
 
 //null
